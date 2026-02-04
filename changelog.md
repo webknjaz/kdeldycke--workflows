@@ -1,5 +1,10 @@
 # Changelog
 
+## [5.6.4 (unreleased)](https://github.com/kdeldycke/workflows/compare/v5.6.3...main)
+
+> [!IMPORTANT]
+> This version is not released yet and is under active development.
+
 ## [5.6.3 (2026-02-04)](https://github.com/kdeldycke/workflows/compare/v5.6.2...v5.6.3)
 
 - Fix `update-deps-graph` job.
